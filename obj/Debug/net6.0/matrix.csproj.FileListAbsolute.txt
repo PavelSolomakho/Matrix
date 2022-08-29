@@ -1,0 +1,15 @@
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\matrix.csproj.AssemblyReference.cache
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\matrix.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\matrix.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\matrix.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\bin\Debug\net6.0\matrix.exe
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\bin\Debug\net6.0\matrix.deps.json
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\bin\Debug\net6.0\matrix.runtimeconfig.json
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\bin\Debug\net6.0\matrix.dll
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\bin\Debug\net6.0\matrix.pdb
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\matrix.dll
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\refint\matrix.dll
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\matrix.pdb
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\matrix.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\DZ\DZ_\matrix\obj\Debug\net6.0\ref\matrix.dll
